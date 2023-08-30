@@ -1,1 +1,1 @@
-# mar-code-app.json
+# mar-code-app
