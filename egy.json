@@ -1,7 +1,7 @@
 {
   "appRedirect": {
     "status"      : false,
-    "redirectURL" : ""
+    "redirectURL" : "https://play.google.com/store/apps/details?id=app.yanis.tv.plus"
   },
   "AdsController": {
     "BannerNetwork"           : "ironsource",
