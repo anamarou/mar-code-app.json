@@ -1,6 +1,6 @@
 {
   "appRedirect": {
-    "status"      : false,
+    "status"      : true,
     "redirectURL" : "https://play.google.com/store/apps/details?id=app.yanis.tv.plus"
   },
   "AdsController": {
