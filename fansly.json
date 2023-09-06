@@ -10,7 +10,7 @@
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     
-    "IntervalClick"           : 10,
+    "IntervalClick"           : 2,
     
     "AdMob_ID"               : "pub-7476903604440240",
     "AdMob_Banner"           : "ca-app-pub-7476903604440240/8205247630",
@@ -21,9 +21,9 @@
     "Facebook_InterstitialAd" : "XXX",
     "Facebook_Native"         : "XX",
     
-    "Applovin_Banner"        : "xxx",
-    "Applovin_InterstitialAd": "xxx",
-    "Applovin_Native"        : "xxx",
+    "Applovin_Banner"        : "25985ee93bb0acab",
+    "Applovin_InterstitialAd": "7288f875f2d3d500",
+    "Applovin_Native"        : "d45d989d172c45b0",
 
     "Unity_GameID"           : "4076527xxx",
     "Unity_Banner"           : "BannerAd",
