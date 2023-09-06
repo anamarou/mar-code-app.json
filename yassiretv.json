@@ -4,7 +4,7 @@
     "redirectURL" : ""
   },
   "AdsController": {
-    "BannerNetwork"           : "ironsource",
+    "BannerNetwork"           : "applovin",
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     "RewardNetwork"           : "admob",
@@ -20,9 +20,9 @@
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
     "Facebook_Native"         : "692961278482629_857100538735368",
 
-    "Applovin_Banner"         : "e95007c6b202179b",
-    "Applovin_InterstitialAd" : "44cba425a8611da6",
-    "Applovin_Native"         : "bf87accf54950d22",
+    "Applovin_Banner"         : "c7d6a633f524d87b",
+    "Applovin_InterstitialAd" : "ea22c2b212d6adbe",
+    "Applovin_Native"         : "a4c3160ef6afe94f",
 
     "Unity_GameID"            : "4076527",
     "Unity_Banner"            : "BannerAd",
