@@ -1,7 +1,7 @@
 {
   "appRedirect": {
     "status"      : false,
-    "redirectURL" : ""
+    "redirectURL" : "com.YACINE.TV.Yassire"
   },
   "AdsController": {
     "BannerNetwork"           : "applovin",
