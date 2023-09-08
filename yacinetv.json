@@ -1,7 +1,7 @@
 {
   "appRedirect": {
     "status"      : false,
-    "redirectURL" : ""
+    "redirectURL" : "com.YACINETV.app.yacine.tv"
   },
   "AdsController": {
     "BannerNetwork"           : "applovin",
@@ -9,7 +9,7 @@
     "NativeNetwork"           : "applovin",
     "RewardNetwork"           : "applovin",
 
-    "IntervalClick"           : 10,
+    "IntervalClick"           : 1,
 
     "AdMob_ID"                : "pub-3940256099942544xx",
     "AdMob_Banner"            : "ca-app-pub-3940256099942544xx/6300978111",
@@ -20,9 +20,9 @@
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
     "Facebook_Native"         : "692961278482629_857100538735368",
 
-    "Applovin_Banner"         : "xx",
-    "Applovin_InterstitialAd" : "xx",
-    "Applovin_Native"         : "xx",
+    "Applovin_Banner"         : "a228ca4b727b4f9d",
+    "Applovin_InterstitialAd" : "dba778fc2fc796c5",
+    "Applovin_Native"         : "eca871c3a6132e6c",
 
     "Unity_GameID"            : "4076527",
     "Unity_Banner"            : "BannerAd",
