@@ -1,7 +1,7 @@
 {
   "appRedirect": {
     "status"      : false,
-    "redirectURL" : ""
+    "redirectURL" : "com.YACINE.app.YTV.tv"
   },
   "AdsController": {
     "BannerNetwork"           : "applovin",
