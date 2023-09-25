@@ -1,7 +1,7 @@
 {
   "appRedirect": {
     "status"      : false,
-    "redirectURL" : "com.YACINE.app.YTV.tv"
+    "redirectURL" : "com.YOUCINE.app.reviews"
   },
   "AdsController": {
     "BannerNetwork"           : "applovin",
@@ -38,23 +38,31 @@
     
     "category": [
       {
-        "name": "MOVIES",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
+        "name": "Trending NOW",
+        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/trending.png"
       },
       {
-        "name": "Sport",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
+        "name": "Movies",
+        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/Movies%20youcine.png"
       },
       {
-        "name": "Entertainment",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png"
+        "name": "Series",
+        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/Series%20youcine.png"
       },
       {
-        "name": "Cartoon kids",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png"
+        "name": "Popular",
+        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/Popular.png"
+      },
+      {
+        "name": "Upcoming",
+        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/Movies%20Upcoming.png"
+      },
+      {
+        "name": "Top Rated",
+        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/Top%20Rated.png"
       }
     ],
-    "MOVIES": [
+    "Trending NOW": [
       {
         "title": " The Darkest Minds (2018)",
         "preview": "https://www.themoviedb.org/t/p/w1280/8Mk1Z4RkxdsVAD2L2qcDho00zPo.jpg",
@@ -64,67 +72,67 @@
         "description": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government."
       },
       {
-        "title": "Server 2",
-        "preview": "https://statmilk.bleacherreport.com/api/image/mashup/logo?team1=real-madrid&team2=manchester-city",
-        "rating": "4.5",
+        "title": "The Godfather (1972) ",
+        "preview": "https://www.themoviedb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "rating": "4.4",
         "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
+        "openLink" : "https://youtu.be/VC1_tdnZq1A",
+        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
       }
     ],
-    "Sport": [
+    "Movies": [
 
       {
-        "title": "Sport HD 1",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "4.5",
+        "title": "The Godfather (1972) ",
+        "preview": "https://www.themoviedb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "rating": "4.4",
         "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
+        "openLink" : "https://youtu.be/VC1_tdnZq1A",
+        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
       },
       {
-        "title": "Sport HD 2",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "4.0",
+        "title": " The Darkest Minds (2018)",
+        "preview": "https://www.themoviedb.org/t/p/w1280/8Mk1Z4RkxdsVAD2L2qcDho00zPo.jpg",
+        "rating": "3.6",
         "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
+        "openLink" : "https://youtu.be/tN8o_E_f9FQ",
+        "description": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government."
       }
     ],
-    "Entertainment": [
+    "Series": [
       {
-        "title": "Entertainment HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
-        "rating": "5.0",
+        "title": " The Darkest Minds (2018)",
+        "preview": "https://www.themoviedb.org/t/p/w1280/8Mk1Z4RkxdsVAD2L2qcDho00zPo.jpg",
+        "rating": "3.6",
         "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
+        "openLink" : "https://youtu.be/tN8o_E_f9FQ",
+        "description": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government."
       },
       {
-        "title": "Entertainment HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
-        "rating": "5.0",
+        "title": "The Godfather (1972) ",
+        "preview": "https://www.themoviedb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "rating": "4.4",
         "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
+        "openLink" : "https://youtu.be/VC1_tdnZq1A",
+        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
       }
     ],
-    "Cartoon kids": [
+    "Popular": [
       {
-        "title": " Kids HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
-        "rating": "5.0",
+        "title": "The Godfather (1972) ",
+        "preview": "https://www.themoviedb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "rating": "4.4",
         "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
+        "openLink" : "https://youtu.be/VC1_tdnZq1A",
+        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
       },
       {
-        "title": "Kids HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
-        "rating": "5.0",
+        "title": " The Darkest Minds (2018)",
+        "preview": "https://www.themoviedb.org/t/p/w1280/8Mk1Z4RkxdsVAD2L2qcDho00zPo.jpg",
+        "rating": "3.6",
         "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
+        "openLink" : "https://youtu.be/tN8o_E_f9FQ",
+        "description": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government."
       }
     ]
   },
