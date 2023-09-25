@@ -43,7 +43,7 @@
       },
       {
         "name": "Movies",
-        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/Movies%20youcine.png"
+        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/movies%20youcine.png"
       },
       {
         "name": "Series",
@@ -51,11 +51,11 @@
       },
       {
         "name": "Popular",
-        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/Popular.png"
+        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/popular.png"
       },
       {
         "name": "Upcoming",
-        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/Movies%20Upcoming.png"
+        "preview": "https://raw.githubusercontent.com/anamarou/mar-code-app.json/main/img/movies%20upcoming.png"
       },
       {
         "name": "Top Rated",
