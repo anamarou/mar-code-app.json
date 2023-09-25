@@ -38,7 +38,7 @@
     
     "category": [
       {
-        "name": "Real Madrid - Manchester City",
+        "name": "MOVIES",
         "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
       },
       {
@@ -54,14 +54,14 @@
         "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png"
       }
     ],
-    "Real Madrid - Manchester City": [
+    "MOVIES": [
       {
-        "title": "Server 1 ",
-        "preview": "https://statmilk.bleacherreport.com/api/image/mashup/logo?team1=real-madrid&team2=manchester-city",
-        "rating": "4.8",
+        "title": " The Darkest Minds (2018)",
+        "preview": "https://www.themoviedb.org/t/p/w1280/8Mk1Z4RkxdsVAD2L2qcDho00zPo.jpg",
+        "rating": "3.6",
         "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
+        "openLink" : "https://youtu.be/tN8o_E_f9FQ",
+        "description": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government."
       },
       {
         "title": "Server 2",
