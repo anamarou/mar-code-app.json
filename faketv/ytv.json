@@ -31,175 +31,537 @@
     "IronSourceKey"           : "xxxxx"
   },
 
+    "blockCountry": "us,gb,qa,in,nl,ie",
 
-  "blockCountry": "",
-  
-  "whiteList": {
-    
-    "category": [
-      {
-        "name": "Real Madrid - Manchester City",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
-      },
-      {
-        "name": "Sport",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
-      },
-      {
-        "name": "Entertainment",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png"
-      },
-      {
-        "name": "Cartoon kids",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png"
-      }
-    ],
-    "Real Madrid - Manchester City": [
-      {
-        "title": "Server 1 ",
-        "preview": "https://statmilk.bleacherreport.com/api/image/mashup/logo?team1=real-madrid&team2=manchester-city",
-        "rating": "4.8",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Server 2",
-        "preview": "https://statmilk.bleacherreport.com/api/image/mashup/logo?team1=real-madrid&team2=manchester-city",
-        "rating": "4.5",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      }
-    ],
-    "Sport": [
+	"whiteList": {
 
-      {
-        "title": "Sport HD 1",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "4.5",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Sport HD 2",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "4.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      }
-    ],
-    "Entertainment": [
-      {
-        "title": "Entertainment HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Entertainment HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      }
-    ],
-    "Cartoon kids": [
-      {
-        "title": " Kids HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Kids HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      }
-    ]
-  },
+		"category": [{
+				"name": "Bein Sport 720P",
+				"preview": "https://prod-media.beinsports.com/image/1685140398845_9b820b8f-b4f5-4b51-92d5-3b516794a5d6.jpg"
+			},
 
-  "blackList": {
+			{
+				"name": "Bein Sport 360P",
+				"preview": "https://prod-media.beinsports.com/image/1685140398845_9b820b8f-b4f5-4b51-92d5-3b516794a5d6.jpg"
+			},
 
-    "category": [
-      {
-        "name": "Sport",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
-      },
-      {
-        "name": "Entertainment",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png"
-      },
-      {
-        "name": "Cartoon kids",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png"
-      }
-    ],
-    "Sport": [
-      {
-        "title": "Sport HD 1",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "2.5",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/T31yQf24EOs",
-        "description": ""
-      },
-      {
-        "title": "Sport HD 2",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "4.0",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/T31yQf24EOs",
-        "description": ""
-      }
-    ],
-    "Entertainment": [
-      {
-        "title": "Entertainment HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/gpMhr7PdlLA",
-        "description": ""
-      },
-      {
-        "title": "Entertainment HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/gpMhr7PdlLA",
-        "description": ""
-      }
-    ],
-    "Cartoon kids": [
-      {
-        "title": " Kids HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/HfEVEGf1A8Q",
-        "description": ""
-      },
-      {
-        "title": "Kids HD 1",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/HfEVEGf1A8Q",
-        "description": ""
-      }
-    ]
-  }
+			{
+				"name": "SSC Sports",
+				"preview": "https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png"
+			},
+			{
+				"name": "Arabic Channels",
+				"preview": "https://play-lh.googleusercontent.com/CHLeAKxMswjH6uJ_s1XJQROusuX4HmmTiHyvUNMTJb1x1eouSfTlG5fU0H_uhuy-4A"
+			},
 
- 
+			{
+				"name": "MBC Channels",
+				"preview": "https://media.filfan.com/NewsPics/FilfanNew/large/268350_0.jpg"
+			},
+
+			{
+				"name": "France Channels",
+				"preview": "https://upload.wikimedia.org/wikipedia/commons/6/63/Official_flag_of_France.jpg"
+			},
+
+			{
+				"name": "Cartoon kids",
+				"preview": "https://s1.dmcdn.net/v/VBa2S1awoNaIByMGu/x240"
+			}
+		],
+
+		"Bein Sport 720P": [{
+				"title": "Bein Sport 1",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.7",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 2",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.8",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 3",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.9",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 4",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.4",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 5",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.8",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 6",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.9",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 7",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.8",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 8",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.8",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+
+			{
+				"title": "Bein Sport 9",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.5",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			}
+		],
+
+
+		"Bein Sport 360P": [{
+				"title": "Bein Sport 1",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.8",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 2",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.9",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 3",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.8",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 4",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.7",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 5",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.8",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 6",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.8",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 7",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.8",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Bein Sport 8",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.8",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+
+			{
+				"title": "Bein Sport 9",
+				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+				"rating": "4.5",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			}
+		],
+
+
+		"SSC Sports": [
+
+			{
+				"title": "SSC Sport News",
+				"preview": "https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "SSC Sport 1",
+				"preview": "https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",
+				"rating": "4.9",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "SSC Sport 2",
+				"preview": "https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "SSC Sport 3",
+				"preview": "https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",
+				"rating": "4.5",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "SSC Sport 7",
+				"preview": "https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "SSC Sport 5",
+				"preview": "https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "SSC Sport 6",
+				"preview": "https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "SSC Sport 7",
+				"preview": "https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			}
+		],
+
+		"Arabic Channels": [
+
+			{
+				"title": "Maroc Channels",
+				"preview": "https://img.freepik.com/photos-premium/drapeau-du-maroc_406939-4549.jpg",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Algerie Channels",
+				"preview": "https://seeklogo.com/images/A/Algerie_Drapeau-logo-9584DBC82B-seeklogo.com.png",
+				"rating": "4.1",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Saudi Channels",
+				"preview": "https://www.worldatlas.com/img/flag/sa-flag.jpg",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Egypt Channels",
+				"preview": "https://www.logotypes101.com/logos/238/687746387A57CC0DF6666F090F71FCB9/Egypt.png",
+				"rating": "4.4",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Émirats arabes unis Channels",
+				"preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1200px-Flag_of_the_United_Arab_Emirates.svg.png",
+				"rating": "4.7",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			}
+		],
+
+
+		"MBC Channels": [
+
+			{
+				"title": "MBC 1",
+				"preview": "https://media.filfan.com/NewsPics/FilfanNew/large/268350_0.jpg",
+				"rating": "4.1",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "MBC 2",
+				"preview": "https://media.filfan.com/NewsPics/FilfanNew/large/268350_0.jpg",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "MBC 3",
+				"preview": "https://media.filfan.com/NewsPics/FilfanNew/large/268350_0.jpg",
+				"rating": "4.2",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "MBC 4",
+				"preview": "https://media.filfan.com/NewsPics/FilfanNew/large/268350_0.jpg",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "MBC Drama",
+				"preview": "https://media.filfan.com/NewsPics/FilfanNew/large/268350_0.jpg",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "MBC Action",
+				"preview": "https://media.filfan.com/NewsPics/FilfanNew/large/268350_0.jpg",
+				"rating": "4.2",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "MBC MAX",
+				"preview": "https://media.filfan.com/NewsPics/FilfanNew/large/268350_0.jpg",
+				"rating": "4.4",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "MBC Iraq",
+				"preview": "https://media.filfan.com/NewsPics/FilfanNew/large/268350_0.jpg",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			}
+		],
+
+		"France Channels": [
+
+			{
+				"title": "France 1",
+				"preview": "https://upload.wikimedia.org/wikipedia/commons/6/63/Official_flag_of_France.jpg",
+				"rating": "4.5",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "France 2",
+				"preview": "https://upload.wikimedia.org/wikipedia/commons/6/63/Official_flag_of_France.jpg",
+				"rating": "4.5",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "France 3",
+				"preview": "https://upload.wikimedia.org/wikipedia/commons/6/63/Official_flag_of_France.jpg",
+				"rating": "4.5",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "France 4",
+				"preview": "https://upload.wikimedia.org/wikipedia/commons/6/63/Official_flag_of_France.jpg",
+				"rating": "4.5",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "France 5",
+				"preview": "https://upload.wikimedia.org/wikipedia/commons/6/63/Official_flag_of_France.jpg",
+				"rating": "4.5",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "France 6",
+				"preview": "https://upload.wikimedia.org/wikipedia/commons/6/63/Official_flag_of_France.jpg",
+				"rating": "4.5",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			}
+
+		],
+
+
+		"Cartoon kids": [
+
+			{
+				"title": "Cartoon kids 1",
+				"preview": "https://s1.dmcdn.net/v/VBa2S1awoNaIByMGu/x240",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Cartoon kids 2",
+				"preview": "https://s1.dmcdn.net/v/VBa2S1awoNaIByMGu/x240",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Cartoon kids 3",
+				"preview": "https://s1.dmcdn.net/v/VBa2S1awoNaIByMGu/x240",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			},
+			{
+				"title": "Cartoon kids 4",
+				"preview": "https://s1.dmcdn.net/v/VBa2S1awoNaIByMGu/x240",
+				"rating": "4.6",
+				"ratingUS": "",
+				"openLink": "",
+				"description": ""
+			}
+
+		]
+
+
+	},
+
+	"blackList": {
+
+		"category": [{
+				"name": "Sport",
+				"preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
+			},
+			{
+				"name": "Entertainment",
+				"preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png"
+			},
+			{
+				"name": "Cartoon kids",
+				"preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png"
+			}
+		],
+		"Sport": [{
+				"title": "Sport HD 1",
+				"preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
+				"rating": "2.5",
+				"ratingUS": "",
+				"openLink": "https://youtu.be/T31yQf24EOs",
+				"description": ""
+			},
+			{
+				"title": "Sport HD 2",
+				"preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
+				"rating": "4.0",
+				"ratingUS": "",
+				"openLink": "https://youtu.be/T31yQf24EOs",
+				"description": ""
+			}
+		],
+		"Entertainment": [{
+				"title": "Entertainment HD 1",
+				"preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
+				"rating": "5.0",
+				"ratingUS": "",
+				"openLink": "https://youtu.be/gpMhr7PdlLA",
+				"description": ""
+			},
+			{
+				"title": "Entertainment HD 1",
+				"preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
+				"rating": "5.0",
+				"ratingUS": "",
+				"openLink": "https://youtu.be/gpMhr7PdlLA",
+				"description": ""
+			}
+		],
+		"Cartoon kids": [{
+				"title": " Kids HD 1",
+				"preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
+				"rating": "5.0",
+				"ratingUS": "",
+				"openLink": "https://youtu.be/HfEVEGf1A8Q",
+				"description": ""
+			},
+			{
+				"title": "Kids HD 1",
+				"preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
+				"rating": "5.0",
+				"ratingUS": "",
+				"openLink": "https://youtu.be/HfEVEGf1A8Q",
+				"description": ""
+			}
+		]
+	}
 }
