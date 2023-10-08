@@ -4,7 +4,7 @@
     "redirectURL" : "com.aymane.tv.live"
   },
   "AdsController": {
-    "BannerNetwork"           : "applovin",
+    "BannerNetwork"           : "ironsource",
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     "RewardNetwork"           : "applovin",
@@ -28,12 +28,12 @@
     "Unity_Banner"            : "BannerAd",
     "Unity_InterstitialAd"    : "InterstitialAd",
 
-    "IronSourceKey"           : "19cf95015"
+    "IronSourceKey"           : "1bf1b5225"
   },
 
 
 
-    "blockCountry": "us,gb,qa,in,nl,ie",
+    "blockCountry": "us,gb,qa,in,nl",
 
 	"whiteList": {
 
