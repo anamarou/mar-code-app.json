@@ -63,59 +63,1456 @@
       }
     ],
     "Trending NOW": [
-      {
-        "title": " The Darkest Minds (2018)",
-        "preview": "https://www.themoviedb.org/t/p/w1280/8Mk1Z4RkxdsVAD2L2qcDho00zPo.jpg",
-        "rating": "3.6",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/tN8o_E_f9FQ",
-        "description": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government."
-      },
-      {
-        "title": "The Godfather (1972) ",
-        "preview": "https://www.themoviedb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-        "rating": "4.4",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/VC1_tdnZq1A",
-        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
-      }
-    ],
-    "Movies": [
+    {
+        "title": "Expend4bles",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/mOX5O6JjCUWtlYp5D8wajuQRVgy.jpg",
+        "rating": "63.8",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Cm3Z1jEjHHc",
+        "description": "\nArmed with every weapon they can get their hands on and the skills to use them, The Expendables are the world\u2019s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give \u201cnew blood\u201d a whole new meaning.\n"
+    },
+    {
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+        "rating": "77.19",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=HurjfO_TDlQ",
+        "description": "\nEthan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission\u2014not even the lives of those he cares about most.\n"
+    },
+    {
+        "title": "The Equalizer 3",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+        "rating": "72.5",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=fQfrzHFmVe8",
+        "description": "\nRobert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.\n"
+    },
+    {
+        "title": "The Nun II",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+        "rating": "70.02",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=QF-oyCwaArU",
+        "description": "\nIn 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.\n"
+    },
+    {
+        "title": "Mortal Kombat Legends: Cage Match",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/1eKWqTHp4OgKdx1QX1O9LxKHr1M.jpg",
+        "rating": "78.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=-Q5gWq4LeUM",
+        "description": "\nIn 1980s Hollywood, action star Johnny Cage is looking to become an A-list actor. But when his costar, Jennifer, goes missing from set, Johnny finds himself thrust into a world filled with shadows, danger, and deceit. As he embarks on a bloody journey, Johnny quickly discovers the City of Angels has more than a few devils in its midst.\n"
+    },
+    {
+        "title": "Sound of Freedom",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+        "rating": "80.98",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=hyyyKcfJRGQ",
+        "description": "\nThe story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.\n"
+    },
+    {
+        "title": "Nowhere",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/uldNFFKNXNvwss0MIZErMSFkBJZ.jpg",
+        "rating": "76.12",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=KDUtdcU10YA",
+        "description": "\nA young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to the child while lost at sea, where she must fight to survive.\n"
+    },
+    {
+        "title": "Ballerina",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/oE7xtGDqZnr7tFHfwb8oM9iRW6H.jpg",
+        "rating": "70.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=IhXfUTGVEUI",
+        "description": "\nGrieving the loss of a best friend she couldn't protect, an ex-bodyguard sets out to fulfill her dear friend's last wish: sweet revenge.\n"
+    },
+    {
+        "title": "Talk to Me",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+        "rating": "71.91",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=PGo4wfCejsk",
+        "description": "\nWhen a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.\n"
+    },
+    {
+        "title": "The Ritual Killer",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/1VtHaELqLMovl8EueBWHDtihhzF.jpg",
+        "rating": "57.839999999999996",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=DIa__DpZX9U",
+        "description": "\nUnable to process the death of his daughter, Detective Boyd embarks on a hunt for a serial killer who murders according to a brutal tribal ritual: Muti. The only person who can help Boyd is Professor Mackles, an anthropologist who hides an unspeakable secret. The line between sanity and madness thins as Boyd goes deeper into the killer\u2019s world.\n"
+    },
+    {
+        "title": "Gran Turismo",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+        "rating": "80.74",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=ZCYHn8mvyF8",
+        "description": "\nThe ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.\n"
+    },
+    {
+        "title": "57 Seconds",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg",
+        "rating": "54.17",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=zztwCBesT3g",
+        "description": "\nWhen a tech blogger lands an interview with a tech guru and stops an attack on him, he finds a mysterious ring that takes him back 57 seconds into the past.\n"
+    },
+    {
+        "title": "V/H/S/85",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/yIPSlVaTYuxhbsmSsGBDCZkiN3P.jpg",
+        "rating": "66.92",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Ke20dnbwZXs",
+        "description": "\nUnveiled through a made-for-TV documentary, five chilling tales of found footage horror emerge to take viewers on a gore-filled journey through the grim underbelly of the forgotten 1980s.\n"
+    },
+    {
+        "title": "Blue Beetle",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+        "rating": "70.6",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=4wxyy8Rcz4k",
+        "description": "\nRecent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.\n"
+    },
+    {
+        "title": "Meg 2: The Trench",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+        "rating": "68.15",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=dG91B3hHyY4",
+        "description": "\nAn exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.\n"
+    },
+    {
+        "title": "PAW Patrol: The Mighty Movie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+        "rating": "73.17",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=UDgjJ9XzgHk",
+        "description": "\nA magical meteor crash-lands in Adventure City, gives the PAW Patrol pups superpowers, and transforms them into The Mighty Pups. When the Patrol's archrival Humdinger breaks out of jail and teams up with mad scientist Victoria Vance to steal the powers for themselves, the Mighty Pups must save Adventure City and stop the supervillains before it's too late.\n"
+    },
+    {
+        "title": "Terror on the Prairie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/xfwHIY865AYJoFgBAYoAJLvPLO9.jpg",
+        "rating": "60.730000000000004",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=AcKVWp9mK7k",
+        "description": "\nA pioneering family fights back against a gang of vicious outlaws that is terrorizing them on their newly-built farm on the plains of Montana.\n"
+    },
+    {
+        "title": "Saw X",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/b16RAVwj2QN6RAs752UJNzQ9Of0.jpg",
+        "rating": "72.75999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=t3PzUo4P21c",
+        "description": "\nBetween the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.\n"
+    },
+    {
+        "title": "Fast X",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+        "rating": "72.47",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=eoOaKN4qCKw",
+        "description": "\nOver many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything\u2014and everyone\u2014that Dom loves, forever.\n"
+    },
+    {
+        "title": "Muzzle",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qXChf7MFL36BgoLkiB3BzXiwW82.jpg",
+        "rating": "62.160000000000004",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=rYY5QdEGEZw",
+        "description": "\nLAPD K-9 officer Jake Rosser has just witnessed the shocking murder of his dedicated partner by a mysterious assailant. As he investigates the shooter\u2019s identity, he uncovers a vast conspiracy that has a chokehold on the city in this thrilling journey through the tangled streets of Los Angeles and the corrupt bureaucracy of the LAPD.\n"
+    },
+    {
+        "title": "Killers of the Flower Moon",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+        "rating": "79.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=1oZUCkJEuvo",
+        "description": "\nWhen oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.\n"
+    },
+    {
+        "title": "Don't Sleep",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/jP0fjDDZaYGpuwD9as6tNn0ePPz.jpg",
+        "rating": "46.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=7oR04_eN5Ys",
+        "description": "\nAfter moving into a cottage together, two young lovers confront horrors of a forgotten childhood.\n"
+    },
+    {
+        "title": "Barbie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        "rating": "72.34",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Y1IgAEejvqM",
+        "description": "\nBarbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.\n"
+    },
+    {
+        "title": "Retribution",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
+        "rating": "69.93",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Sxyzdo-RBKc",
+        "description": "\nWhen a mysterious caller puts a bomb under his car seat, Matt Turner begins a high-speed chase across the city to complete a specific series of tasks. With his kids trapped in the back seat and a bomb that will explode if they get out of the car, a normal commute becomes a twisted game of life or death as Matt follows the stranger's increasingly dangerous instructions in a race against time to save his family.\n"
+    },
+    {
+        "title": "The Kill Room",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qKpdy7N6zX05eisopvvviiTwPxb.jpg",
+        "rating": "55.22",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=ZCoMN3YUTp8",
+        "description": "\nA hitman, his boss, an art dealer and a money-laundering scheme that accidentally turns the assassin into an overnight avant-garde sensation, one that forces her to play the art world against the underworld.\n"
+    },
+    {
+        "title": "It Lives Inside",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/73gIfV8gDwkVgUrFDzt4TfZC9Zc.jpg",
+        "rating": "55.93",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=FrPYOf5RmYI",
+        "description": "\nDesperate to fit in at school, Sam rejects her East Indian culture and family to be like everyone else. However, when a mythological demonic spirit latches onto her former best friend, she must come to terms with her heritage to defeat it.\n"
+    },
+    {
+        "title": "Dark Harvest",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg",
+        "rating": "60.519999999999996",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Pge4NmBzdkE",
+        "description": "\nIn a cursed town, the annual harvest becomes a brutal battle for survival. On Halloween 1963, Sawtooth Jack, a terrifying legend, rises from the cornfields, threatening the town\u2019s children. Groups of boys unite to defeat the murderous scarecrow before midnight. Richie, a rebellious outcast, joins the run, motivated by his brother\u2019s previous victory. As the hunt progresses, Richie makes a shocking discovery and faces a pivotal choice to break the relentless cycle.\n"
+    },
+    {
+        "title": "Transformers: Rise of the Beasts",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+        "rating": "74.75",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=ZtuFgnxQMrA",
+        "description": "\nWhen a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.\n"
+    },
+    {
+        "title": "Elemental",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+        "rating": "77.45",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=hXzcyx9V0xw",
+        "description": "\nIn a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.\n"
+    },
+    {
+        "title": "The Conference",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/9imBftrSrLToSfAIzdh3zPoa6VM.jpg",
+        "rating": "55.43",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=B9hpl8e-lQ4",
+        "description": "\nA team-building conference for municipal employees turns into a nightmare when accusations of corruption begin to circulate and plague the work environment. At the same time, a mysterious figure begins murdering the participants.\n"
+    },
+    {
+        "title": "The Exorcist: Believer",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/lxRLC3WOFM2INoyEa3bFGIUApvn.jpg",
+        "rating": "53.96",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=r71FmJBoSDs",
+        "description": "\nWhen his daughter, Angela, and her friend Katherine, show signs of demonic possession, it unleashes a chain of events that forces single father Victor Fielding to confront the nadir of evil. Terrified and desperate, he seeks out Chris MacNeil, the only person alive who's witnessed anything like it before.\n"
+    },
+    {
+        "title": "Overhaul",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/6yx14lSACNJ2zRoYyXqecf3QNgr.jpg",
+        "rating": "67.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=6vgLc_Goo4g",
+        "description": "\nWhen truck racer Roger loses everything, he receives a tempting but dangerous offer: to work as the getaway driver for a gang of thieves.\n"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "rating": "84.30999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=yFrxzaBLDQM",
+        "description": "\nAfter reuniting with Gwen Stacy, Brooklyn\u2019s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse\u2019s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.\n"
+    },
+    {
+        "title": "Five Nights at Freddy's",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+        "rating": "92.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=X4d_v-HyR4o",
+        "description": "\nRecently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.\n"
+    },
+    {
+        "title": "Haunted Mansion",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg",
+        "rating": "66.91",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=iB_1o3c19y0",
+        "description": "\nA woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.\n"
+    },
+    {
+        "title": "John Wick: Chapter 4",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "rating": "78.04",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=yjRHZEUamCc",
+        "description": "\nWith the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.\n"
+    },
+    {
+        "title": "Indiana Jones and the Dial of Destiny",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+        "rating": "66.81",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=eQfMbSe7F2g",
+        "description": "\nFinding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.\n"
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+        "rating": "77.66",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=RjNcTBXTk4I",
+        "description": "\nWhile working underground to fix a water main, Brooklyn plumbers\u2014and brothers\u2014Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.\n"
+    },
+    {
+        "title": "Race to the Summit",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/tI9ybrWLiVLljLsNoqEjQF36oG4.jpg",
+        "rating": "62.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=wEzoqk5jdMs",
+        "description": "\nFearless alpine climbers Ueli Steck and Dani Arnold enter into a death-defying rivalry to set speed records on the Swiss Alps' great north faces.\n"
+    },
+    {
+        "title": "Oppenheimer",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "rating": "82.50999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=uYPbbksJxIg",
+        "description": "\nThe story of J. Robert Oppenheimer\u2019s role in the development of the atomic bomb during World War II.\n"
+    },
+    {
+        "title": "The Flash",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+        "rating": "68.76",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=jprhe-cWKGs",
+        "description": "\nWhen his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?\n"
+    },
+    {
+        "title": "After Everything",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",
+        "rating": "68.38",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=NsmopvKNSE4",
+        "description": "\nBesieged by writer\u2019s block and the crushing breakup with Tessa, Hardin travels to Portugal in search of a woman he wronged in the past \u2013 and to find himself. Hoping to win back Tessa, he realizes he needs to change his ways before he can make the ultimate commitment.\n"
+    },
+    {
+        "title": "Awareness",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/nXj3iwqUTnVWR95KCkjGT6hle0J.jpg",
+        "rating": "58.9",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=NM873zmWbn4",
+        "description": "\nIan is a teenager who lives with his father on the outskirts by running small scams using Ian's ability to generate visual illusions upon unsuspecting victims. When one of his cons goes awry, his abilities publicly spiral out of control and Ian becomes the target of two rival organizations, each seeking to exploit his powers.\n"
+    },
+    {
+        "title": "Pet Sematary: Bloodlines",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg",
+        "rating": "63.81999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=1IgQpRyfwbE",
+        "description": "\nIn 1969, a young Jud Crandall has dreams of leaving his hometown of Ludlow, Maine behind, but soon discovers sinister secrets buried within and is forced to confront a dark family history that will forever keep him connected to Ludlow.\n"
+    },
+    {
+        "title": "Sniper: G.R.I.T. - Global Response & Intelligence Team",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/a9bt9byTQ1MIfRWYQX240HiYPrl.jpg",
+        "rating": "67.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=AAT4TCet1KQ",
+        "description": "\nWhen an international terrorist cult threatens global political stability and kidnaps a fellow agent, Ace Sniper Brandon Beckett and the newly-formed Global Response & Intelligence Team \u2013 or G.R.I.T. \u2013 led by Colonel Stone must travel across the world to Malta, infiltrate the cult, and take out its leader to free Lady Death and stop the global threat.\n"
+    },
+    {
+        "title": "Carl's Date",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/y8NtM6q3PzntqyNRNw6wgicwRYl.jpg",
+        "rating": "77.66",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=5emJgNiFbAA",
+        "description": "\nCarl Fredricksen reluctantly agrees to go on a date with a lady friend\u2014but admittedly has no idea how dating works these days. Ever the helpful friend, Dug steps in to calm Carl's pre-date jitters and offer some tried-and-true tips for making friends\u2014if you're a dog.\n"
+    },
+    {
+        "title": "Totally Killer",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
+        "rating": "69.53999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=5vYipYSDhtQ",
+        "description": "\nWhen the infamous \"Sweet Sixteen Killer\" returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.\n"
+    },
+    {
+        "title": "Know Fear",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qA56VS1DqtLfcudMrtjpHc7rvR5.jpg",
+        "rating": "68.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=2ZhpAcjtmY4",
+        "description": "\nAfter discovering an ancient book of the occult, a family activates a dangerous ritual forcing each of them to communicate with and fight a demonic force in their own unique way: to see it, hear it or speak to it.\n"
+    },
+    {
+        "title": "No One Will Save You",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg",
+        "rating": "68.38",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=IcA02w6rm44",
+        "description": "\nAn exiled anxiety-ridden homebody must battle an alien who's found its way into her home.\n"
+    },
+    {
+        "title": "A Really Haunted Loud House",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/30we4NrF5F1FcBDklBGXvCDn1pG.jpg",
+        "rating": "78.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=cDmGHalUdZU",
+        "description": "\nLincoln and his best friend, Clyde, struggle to decide whether to participate in the Loud family Spooktacular, attend their friend, Xander's, party, or go trick-or-treating on Halloween.\n"
+    },
+    {
+        "title": "My Fault",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "rating": "80.79",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=xY-qRGC6Yu0",
+        "description": "\nNoah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.\n"
+    },
+    {
+        "title": "Kandahar",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
+        "rating": "69.13",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=WHs6z9RPGtA",
+        "description": "\nAfter his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down.\n"
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "rating": "80.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=AAE5VZktooM",
+        "description": "\nPeter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.\n"
+    },
+    {
+        "title": "The Little Mermaid",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+        "rating": "65.11",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=kpGo2_d3oYE",
+        "description": "\nThe youngest of King Triton\u2019s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life \u2013 and her father\u2019s crown \u2013 in jeopardy.\n"
+    },
+    {
+        "title": "Let Her Kill You",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/lNqSlpZAti3qdcxnquek7cNd3uF.jpg",
+        "rating": "65.66",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=seVfWwJfous",
+        "description": "\nAlone in the mountains of Switzerland, Anne discovers that her isolated chalet is on surveillance and has been bugged. Caught up by her former life as an intelligence secret agent and an affair with her handler, Anne can only count on herself to get out alive.\n"
+    },
+    {
+        "title": "Radical",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/zwcmjn3qKhP7kUmpgNT0f61xzU3.jpg",
+        "rating": "0.0",
+        "ratingUS": "",
+        "openLink": "",
+        "description": "\nIn a Mexican border town plagued by neglect, corruption, and violence, a frustrated teacher tries a radical new method to break through his students\u2019 apathy and unlock their curiosity, their potential\u2026 and maybe even their genius.\n"
+    },
+    {
+        "title": "Coco",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+        "rating": "82.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=_TLXORFumu0",
+        "description": "\nDespite his family\u2019s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.\n"
+    },
+    {
+        "title": "Heaven in Hell",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/jJJ8K3R19PHNqGkaqEO5DmlFVER.jpg",
+        "rating": "73.8",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=h3mZaYX7gIg",
+        "description": "\nOlga and Maks are 15 years away. She is a successful woman with an established position, the mother of an adult daughter, he is a handsome young man who enjoys his life in a handful and lives only in the moment. It might seem that these two different worlds will never meet, and yet fate put them in the way.\n"
+    },
+    {
+        "title": "The Mill",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/db6gRw1xsXYpJ2I3uUoVkkLyVRh.jpg",
+        "rating": "60.709999999999994",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=hxu1zTco8-I",
+        "description": "\nA businessman wakes up beside an ancient grist mill situated in the center of an open-air prison cell with no idea how he got there. Forced to work as a beast of burden to stay alive, he must find a way to escape before the birth of his child.\n"
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+        "rating": "76.50999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=o5F8MOz_IDw",
+        "description": "\nSet more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.\n"
+    }
+],
 
-      {
-        "title": "The Godfather (1972) ",
-        "preview": "https://www.themoviedb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-        "rating": "4.4",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/VC1_tdnZq1A",
-        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
-      },
-      {
-        "title": " The Darkest Minds (2018)",
-        "preview": "https://www.themoviedb.org/t/p/w1280/8Mk1Z4RkxdsVAD2L2qcDho00zPo.jpg",
-        "rating": "3.6",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/tN8o_E_f9FQ",
-        "description": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government."
-      }
-    ],
+
+
+
+
+    "Movies": 
+[
+    {
+        "title": "Expend4bles",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/mOX5O6JjCUWtlYp5D8wajuQRVgy.jpg",
+        "rating": "63.8",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Cm3Z1jEjHHc",
+        "description": "\nArmed with every weapon they can get their hands on and the skills to use them, The Expendables are the world\u2019s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give \u201cnew blood\u201d a whole new meaning.\n"
+    },
+    {
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+        "rating": "77.19",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=HurjfO_TDlQ",
+        "description": "\nEthan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission\u2014not even the lives of those he cares about most.\n"
+    },
+    {
+        "title": "The Equalizer 3",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+        "rating": "72.5",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=fQfrzHFmVe8",
+        "description": "\nRobert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.\n"
+    },
+    {
+        "title": "The Nun II",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+        "rating": "70.02",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=QF-oyCwaArU",
+        "description": "\nIn 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.\n"
+    },
+    {
+        "title": "Mortal Kombat Legends: Cage Match",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/1eKWqTHp4OgKdx1QX1O9LxKHr1M.jpg",
+        "rating": "78.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=-Q5gWq4LeUM",
+        "description": "\nIn 1980s Hollywood, action star Johnny Cage is looking to become an A-list actor. But when his costar, Jennifer, goes missing from set, Johnny finds himself thrust into a world filled with shadows, danger, and deceit. As he embarks on a bloody journey, Johnny quickly discovers the City of Angels has more than a few devils in its midst.\n"
+    },
+    {
+        "title": "Sound of Freedom",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+        "rating": "80.98",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=hyyyKcfJRGQ",
+        "description": "\nThe story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.\n"
+    },
+    {
+        "title": "Nowhere",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/uldNFFKNXNvwss0MIZErMSFkBJZ.jpg",
+        "rating": "76.12",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=KDUtdcU10YA",
+        "description": "\nA young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to the child while lost at sea, where she must fight to survive.\n"
+    },
+    {
+        "title": "Ballerina",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/oE7xtGDqZnr7tFHfwb8oM9iRW6H.jpg",
+        "rating": "70.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=IhXfUTGVEUI",
+        "description": "\nGrieving the loss of a best friend she couldn't protect, an ex-bodyguard sets out to fulfill her dear friend's last wish: sweet revenge.\n"
+    },
+    {
+        "title": "Talk to Me",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+        "rating": "71.91",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=PGo4wfCejsk",
+        "description": "\nWhen a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.\n"
+    },
+    {
+        "title": "The Ritual Killer",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/1VtHaELqLMovl8EueBWHDtihhzF.jpg",
+        "rating": "57.839999999999996",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=DIa__DpZX9U",
+        "description": "\nUnable to process the death of his daughter, Detective Boyd embarks on a hunt for a serial killer who murders according to a brutal tribal ritual: Muti. The only person who can help Boyd is Professor Mackles, an anthropologist who hides an unspeakable secret. The line between sanity and madness thins as Boyd goes deeper into the killer\u2019s world.\n"
+    },
+    {
+        "title": "Gran Turismo",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+        "rating": "80.74",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=ZCYHn8mvyF8",
+        "description": "\nThe ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.\n"
+    },
+    {
+        "title": "57 Seconds",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg",
+        "rating": "54.17",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=zztwCBesT3g",
+        "description": "\nWhen a tech blogger lands an interview with a tech guru and stops an attack on him, he finds a mysterious ring that takes him back 57 seconds into the past.\n"
+    },
+    {
+        "title": "V/H/S/85",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/yIPSlVaTYuxhbsmSsGBDCZkiN3P.jpg",
+        "rating": "66.92",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Ke20dnbwZXs",
+        "description": "\nUnveiled through a made-for-TV documentary, five chilling tales of found footage horror emerge to take viewers on a gore-filled journey through the grim underbelly of the forgotten 1980s.\n"
+    },
+    {
+        "title": "Blue Beetle",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+        "rating": "70.6",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=4wxyy8Rcz4k",
+        "description": "\nRecent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.\n"
+    },
+    {
+        "title": "Meg 2: The Trench",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+        "rating": "68.15",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=dG91B3hHyY4",
+        "description": "\nAn exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.\n"
+    },
+    {
+        "title": "PAW Patrol: The Mighty Movie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+        "rating": "73.17",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=UDgjJ9XzgHk",
+        "description": "\nA magical meteor crash-lands in Adventure City, gives the PAW Patrol pups superpowers, and transforms them into The Mighty Pups. When the Patrol's archrival Humdinger breaks out of jail and teams up with mad scientist Victoria Vance to steal the powers for themselves, the Mighty Pups must save Adventure City and stop the supervillains before it's too late.\n"
+    },
+    {
+        "title": "Terror on the Prairie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/xfwHIY865AYJoFgBAYoAJLvPLO9.jpg",
+        "rating": "60.730000000000004",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=AcKVWp9mK7k",
+        "description": "\nA pioneering family fights back against a gang of vicious outlaws that is terrorizing them on their newly-built farm on the plains of Montana.\n"
+    },
+    {
+        "title": "Saw X",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/b16RAVwj2QN6RAs752UJNzQ9Of0.jpg",
+        "rating": "72.75999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=t3PzUo4P21c",
+        "description": "\nBetween the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.\n"
+    },
+    {
+        "title": "Fast X",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+        "rating": "72.47",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=eoOaKN4qCKw",
+        "description": "\nOver many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything\u2014and everyone\u2014that Dom loves, forever.\n"
+    },
+    {
+        "title": "Muzzle",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qXChf7MFL36BgoLkiB3BzXiwW82.jpg",
+        "rating": "62.160000000000004",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=rYY5QdEGEZw",
+        "description": "\nLAPD K-9 officer Jake Rosser has just witnessed the shocking murder of his dedicated partner by a mysterious assailant. As he investigates the shooter\u2019s identity, he uncovers a vast conspiracy that has a chokehold on the city in this thrilling journey through the tangled streets of Los Angeles and the corrupt bureaucracy of the LAPD.\n"
+    },
+    {
+        "title": "Killers of the Flower Moon",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+        "rating": "79.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=1oZUCkJEuvo",
+        "description": "\nWhen oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.\n"
+    },
+    {
+        "title": "Don't Sleep",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/jP0fjDDZaYGpuwD9as6tNn0ePPz.jpg",
+        "rating": "46.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=7oR04_eN5Ys",
+        "description": "\nAfter moving into a cottage together, two young lovers confront horrors of a forgotten childhood.\n"
+    },
+    {
+        "title": "Barbie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        "rating": "72.34",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Y1IgAEejvqM",
+        "description": "\nBarbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.\n"
+    },
+    {
+        "title": "Retribution",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
+        "rating": "69.93",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Sxyzdo-RBKc",
+        "description": "\nWhen a mysterious caller puts a bomb under his car seat, Matt Turner begins a high-speed chase across the city to complete a specific series of tasks. With his kids trapped in the back seat and a bomb that will explode if they get out of the car, a normal commute becomes a twisted game of life or death as Matt follows the stranger's increasingly dangerous instructions in a race against time to save his family.\n"
+    },
+    {
+        "title": "The Kill Room",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qKpdy7N6zX05eisopvvviiTwPxb.jpg",
+        "rating": "55.22",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=ZCoMN3YUTp8",
+        "description": "\nA hitman, his boss, an art dealer and a money-laundering scheme that accidentally turns the assassin into an overnight avant-garde sensation, one that forces her to play the art world against the underworld.\n"
+    },
+    {
+        "title": "It Lives Inside",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/73gIfV8gDwkVgUrFDzt4TfZC9Zc.jpg",
+        "rating": "55.93",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=FrPYOf5RmYI",
+        "description": "\nDesperate to fit in at school, Sam rejects her East Indian culture and family to be like everyone else. However, when a mythological demonic spirit latches onto her former best friend, she must come to terms with her heritage to defeat it.\n"
+    },
+    {
+        "title": "Dark Harvest",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg",
+        "rating": "60.519999999999996",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Pge4NmBzdkE",
+        "description": "\nIn a cursed town, the annual harvest becomes a brutal battle for survival. On Halloween 1963, Sawtooth Jack, a terrifying legend, rises from the cornfields, threatening the town\u2019s children. Groups of boys unite to defeat the murderous scarecrow before midnight. Richie, a rebellious outcast, joins the run, motivated by his brother\u2019s previous victory. As the hunt progresses, Richie makes a shocking discovery and faces a pivotal choice to break the relentless cycle.\n"
+    },
+    {
+        "title": "Transformers: Rise of the Beasts",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+        "rating": "74.75",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=ZtuFgnxQMrA",
+        "description": "\nWhen a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.\n"
+    },
+    {
+        "title": "Elemental",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+        "rating": "77.45",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=hXzcyx9V0xw",
+        "description": "\nIn a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.\n"
+    },
+    {
+        "title": "The Conference",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/9imBftrSrLToSfAIzdh3zPoa6VM.jpg",
+        "rating": "55.43",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=B9hpl8e-lQ4",
+        "description": "\nA team-building conference for municipal employees turns into a nightmare when accusations of corruption begin to circulate and plague the work environment. At the same time, a mysterious figure begins murdering the participants.\n"
+    },
+    {
+        "title": "The Exorcist: Believer",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/lxRLC3WOFM2INoyEa3bFGIUApvn.jpg",
+        "rating": "53.96",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=r71FmJBoSDs",
+        "description": "\nWhen his daughter, Angela, and her friend Katherine, show signs of demonic possession, it unleashes a chain of events that forces single father Victor Fielding to confront the nadir of evil. Terrified and desperate, he seeks out Chris MacNeil, the only person alive who's witnessed anything like it before.\n"
+    },
+    {
+        "title": "Overhaul",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/6yx14lSACNJ2zRoYyXqecf3QNgr.jpg",
+        "rating": "67.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=6vgLc_Goo4g",
+        "description": "\nWhen truck racer Roger loses everything, he receives a tempting but dangerous offer: to work as the getaway driver for a gang of thieves.\n"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "rating": "84.30999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=yFrxzaBLDQM",
+        "description": "\nAfter reuniting with Gwen Stacy, Brooklyn\u2019s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse\u2019s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.\n"
+    },
+    {
+        "title": "Five Nights at Freddy's",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+        "rating": "92.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=X4d_v-HyR4o",
+        "description": "\nRecently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.\n"
+    },
+    {
+        "title": "Haunted Mansion",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg",
+        "rating": "66.91",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=iB_1o3c19y0",
+        "description": "\nA woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.\n"
+    },
+    {
+        "title": "John Wick: Chapter 4",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "rating": "78.04",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=yjRHZEUamCc",
+        "description": "\nWith the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.\n"
+    },
+    {
+        "title": "Indiana Jones and the Dial of Destiny",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+        "rating": "66.81",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=eQfMbSe7F2g",
+        "description": "\nFinding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.\n"
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+        "rating": "77.66",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=RjNcTBXTk4I",
+        "description": "\nWhile working underground to fix a water main, Brooklyn plumbers\u2014and brothers\u2014Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.\n"
+    },
+    {
+        "title": "Race to the Summit",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/tI9ybrWLiVLljLsNoqEjQF36oG4.jpg",
+        "rating": "62.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=wEzoqk5jdMs",
+        "description": "\nFearless alpine climbers Ueli Steck and Dani Arnold enter into a death-defying rivalry to set speed records on the Swiss Alps' great north faces.\n"
+    },
+    {
+        "title": "Oppenheimer",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "rating": "82.50999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=uYPbbksJxIg",
+        "description": "\nThe story of J. Robert Oppenheimer\u2019s role in the development of the atomic bomb during World War II.\n"
+    },
+    {
+        "title": "The Flash",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+        "rating": "68.76",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=jprhe-cWKGs",
+        "description": "\nWhen his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?\n"
+    },
+    {
+        "title": "After Everything",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",
+        "rating": "68.38",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=NsmopvKNSE4",
+        "description": "\nBesieged by writer\u2019s block and the crushing breakup with Tessa, Hardin travels to Portugal in search of a woman he wronged in the past \u2013 and to find himself. Hoping to win back Tessa, he realizes he needs to change his ways before he can make the ultimate commitment.\n"
+    },
+    {
+        "title": "Awareness",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/nXj3iwqUTnVWR95KCkjGT6hle0J.jpg",
+        "rating": "58.9",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=NM873zmWbn4",
+        "description": "\nIan is a teenager who lives with his father on the outskirts by running small scams using Ian's ability to generate visual illusions upon unsuspecting victims. When one of his cons goes awry, his abilities publicly spiral out of control and Ian becomes the target of two rival organizations, each seeking to exploit his powers.\n"
+    },
+    {
+        "title": "Pet Sematary: Bloodlines",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg",
+        "rating": "63.81999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=1IgQpRyfwbE",
+        "description": "\nIn 1969, a young Jud Crandall has dreams of leaving his hometown of Ludlow, Maine behind, but soon discovers sinister secrets buried within and is forced to confront a dark family history that will forever keep him connected to Ludlow.\n"
+    },
+    {
+        "title": "Sniper: G.R.I.T. - Global Response & Intelligence Team",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/a9bt9byTQ1MIfRWYQX240HiYPrl.jpg",
+        "rating": "67.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=AAT4TCet1KQ",
+        "description": "\nWhen an international terrorist cult threatens global political stability and kidnaps a fellow agent, Ace Sniper Brandon Beckett and the newly-formed Global Response & Intelligence Team \u2013 or G.R.I.T. \u2013 led by Colonel Stone must travel across the world to Malta, infiltrate the cult, and take out its leader to free Lady Death and stop the global threat.\n"
+    },
+    {
+        "title": "Carl's Date",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/y8NtM6q3PzntqyNRNw6wgicwRYl.jpg",
+        "rating": "77.66",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=5emJgNiFbAA",
+        "description": "\nCarl Fredricksen reluctantly agrees to go on a date with a lady friend\u2014but admittedly has no idea how dating works these days. Ever the helpful friend, Dug steps in to calm Carl's pre-date jitters and offer some tried-and-true tips for making friends\u2014if you're a dog.\n"
+    },
+    {
+        "title": "Totally Killer",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
+        "rating": "69.53999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=5vYipYSDhtQ",
+        "description": "\nWhen the infamous \"Sweet Sixteen Killer\" returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.\n"
+    },
+    {
+        "title": "Know Fear",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qA56VS1DqtLfcudMrtjpHc7rvR5.jpg",
+        "rating": "68.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=2ZhpAcjtmY4",
+        "description": "\nAfter discovering an ancient book of the occult, a family activates a dangerous ritual forcing each of them to communicate with and fight a demonic force in their own unique way: to see it, hear it or speak to it.\n"
+    },
+    {
+        "title": "No One Will Save You",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg",
+        "rating": "68.38",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=IcA02w6rm44",
+        "description": "\nAn exiled anxiety-ridden homebody must battle an alien who's found its way into her home.\n"
+    },
+    {
+        "title": "A Really Haunted Loud House",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/30we4NrF5F1FcBDklBGXvCDn1pG.jpg",
+        "rating": "78.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=cDmGHalUdZU",
+        "description": "\nLincoln and his best friend, Clyde, struggle to decide whether to participate in the Loud family Spooktacular, attend their friend, Xander's, party, or go trick-or-treating on Halloween.\n"
+    },
+    {
+        "title": "My Fault",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "rating": "80.79",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=xY-qRGC6Yu0",
+        "description": "\nNoah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.\n"
+    },
+    {
+        "title": "Kandahar",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
+        "rating": "69.13",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=WHs6z9RPGtA",
+        "description": "\nAfter his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down.\n"
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "rating": "80.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=AAE5VZktooM",
+        "description": "\nPeter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.\n"
+    },
+    {
+        "title": "The Little Mermaid",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+        "rating": "65.11",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=kpGo2_d3oYE",
+        "description": "\nThe youngest of King Triton\u2019s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life \u2013 and her father\u2019s crown \u2013 in jeopardy.\n"
+    },
+    {
+        "title": "Let Her Kill You",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/lNqSlpZAti3qdcxnquek7cNd3uF.jpg",
+        "rating": "65.66",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=seVfWwJfous",
+        "description": "\nAlone in the mountains of Switzerland, Anne discovers that her isolated chalet is on surveillance and has been bugged. Caught up by her former life as an intelligence secret agent and an affair with her handler, Anne can only count on herself to get out alive.\n"
+    },
+    {
+        "title": "Radical",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/zwcmjn3qKhP7kUmpgNT0f61xzU3.jpg",
+        "rating": "0.0",
+        "ratingUS": "",
+        "openLink": "",
+        "description": "\nIn a Mexican border town plagued by neglect, corruption, and violence, a frustrated teacher tries a radical new method to break through his students\u2019 apathy and unlock their curiosity, their potential\u2026 and maybe even their genius.\n"
+    },
+    {
+        "title": "Coco",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+        "rating": "82.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=_TLXORFumu0",
+        "description": "\nDespite his family\u2019s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.\n"
+    },
+    {
+        "title": "Heaven in Hell",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/jJJ8K3R19PHNqGkaqEO5DmlFVER.jpg",
+        "rating": "73.8",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=h3mZaYX7gIg",
+        "description": "\nOlga and Maks are 15 years away. She is a successful woman with an established position, the mother of an adult daughter, he is a handsome young man who enjoys his life in a handful and lives only in the moment. It might seem that these two different worlds will never meet, and yet fate put them in the way.\n"
+    },
+    {
+        "title": "The Mill",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/db6gRw1xsXYpJ2I3uUoVkkLyVRh.jpg",
+        "rating": "60.709999999999994",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=hxu1zTco8-I",
+        "description": "\nA businessman wakes up beside an ancient grist mill situated in the center of an open-air prison cell with no idea how he got there. Forced to work as a beast of burden to stay alive, he must find a way to escape before the birth of his child.\n"
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+        "rating": "76.50999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=o5F8MOz_IDw",
+        "description": "\nSet more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.\n"
+    }
+	],
     "Series": [
-      {
-        "title": " The Darkest Minds (2018)",
-        "preview": "https://www.themoviedb.org/t/p/w1280/8Mk1Z4RkxdsVAD2L2qcDho00zPo.jpg",
-        "rating": "3.6",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/tN8o_E_f9FQ",
-        "description": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government."
-      },
-      {
-        "title": "The Godfather (1972) ",
-        "preview": "https://www.themoviedb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-        "rating": "4.4",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/VC1_tdnZq1A",
-        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
-      }
+    {
+        "title": "Loki",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/voHUmluYmKyleFkTu3lOXQG702u.jpg",
+        "rating": "82.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=nW948Va-l10",
+        "description": "\nAfter stealing the Tesseract during the events of \u201cAvengers: Endgame,\u201d an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a \u201ctime variant\u201d or help fix the timeline and stop a greater threat.\n"
+    },
+    {
+        "title": "Flor Sem Tempo",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/bclnfDXvx7UydFSk83B258vRRvI.jpg",
+        "rating": "68.8",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=yZVjvCVSaY4",
+        "description": "\nWe don't have an overview translated in English. Help us expand our database by adding one.\n"
+    },
+    {
+        "title": "Law & Order: Special Victims Unit",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/ywBt4WKADdMVgxTR1rS2uFwMYTH.jpg",
+        "rating": "79.58",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=IRXNVdiqMuU",
+        "description": "\nIn the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.\n"
+    },
+    {
+        "title": "Rick and Morty",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+        "rating": "87.02",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=WNhH00OIPP0",
+        "description": "\nRick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.\n"
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/hFWP5HkbVEe40hrXgtCeQxoccHE.jpg",
+        "rating": "86.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=VpO6APNqY1c",
+        "description": "\nYuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.\n"
+    },
+    {
+        "title": "The Good Doctor",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
+        "rating": "85.03",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=lnY9FWUTY84",
+        "description": "\nShaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.\n"
+    },
+    {
+        "title": "Grey's Anatomy",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/daSFbrt8QCXV2hSwB0hqYjbj681.jpg",
+        "rating": "82.52000000000001",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=qbkEtYz9acA",
+        "description": "\nFollows the personal and professional lives of a group of doctors at Seattle\u2019s Grey Sloan Memorial Hospital.\n"
+    },
+    {
+        "title": "Gen V",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg",
+        "rating": "82.10000000000001",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=uhjJ5brX-bY",
+        "description": "\nAt America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.\n"
+    },
+    {
+        "title": "Law & Order",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/77OPlbsvX3pzoFbyfpcE3GXMCod.jpg",
+        "rating": "74.99",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=RzN8cPlcMTU",
+        "description": "\nIn cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.\n"
+    },
+    {
+        "title": "The Blacklist",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/r935SMphvXppx5bJjbIBNx02fwc.jpg",
+        "rating": "76.24",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=-WYdUaK54fU",
+        "description": "\nRaymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.\n"
+    },
+    {
+        "title": "Chucky",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg",
+        "rating": "79.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=oBNH-PY730k",
+        "description": "\nAfter a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town\u2019s hypocrisies and secrets. Meanwhile, the arrival of enemies \u2014 and allies \u2014 from Chucky\u2019s past threatens to expose the truth behind the killings, as well as the demon doll\u2019s untold origins.\n"
+    },
+    {
+        "title": "Superman & Lois",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qJ6ndkbqgqS1n7ETi0YHhcjASym.jpg",
+        "rating": "80.77",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=SJPJPUpNvDw",
+        "description": "\nAfter years of facing megalomaniacal supervillains, monsters wreaking havoc on Metropolis, and alien invaders intent on wiping out the human race, The Man of Steel aka Clark Kent and Lois Lane come face to face with one of their greatest challenges ever: dealing with all the stress, pressures and complexities that come with being working parents in today's society.\n"
+    },
+    {
+        "title": "Lucifer",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+        "rating": "85.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=X4bF_quwNtw",
+        "description": "\nBored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals.\u00a0But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.\n"
+    },
+    {
+        "title": "Family Guy",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/hw2vi8agaJZ7oeSvS8uEYgOtK32.jpg",
+        "rating": "72.91",
+        "ratingUS": "",
+        "openLink": "",
+        "description": "\nSick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.\n"
+    },
+    {
+        "title": "The Tonight Show Starring Jimmy Fallon",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/g4amxJvtpnY79J77xeamnAEUO8r.jpg",
+        "rating": "60.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=0uBOtQOO70Y",
+        "description": "\nAfter Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.\n"
+    },
+    {
+        "title": "SPY x FAMILY",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+        "rating": "86.02000000000001",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=JP6vBnazpWI",
+        "description": "\nWorld peace is at stake and secret agent Twilight must undergo his most difficult mission yet\u2014pretend to be a family man. Posing as a loving husband and father, he\u2019ll infiltrate an elite school to get close to a high-profile politician. He has the perfect cover, except his wife\u2019s a deadly assassin and neither knows each other\u2019s identity. But someone does, his adopted daughter who\u2019s a telepath!\n"
+    },
+    {
+        "title": "The Flash",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+        "rating": "77.96000000000001",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=IgVyroQjZbE",
+        "description": "\nAfter a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.\n"
+    },
+    {
+        "title": "Chicago Fire",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/iiI1YU8akLYWdWuX1qHuMYPvSHC.jpg",
+        "rating": "84.27",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=IIeSDILTE5M",
+        "description": "\nAn edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.\n"
+    },
+    {
+        "title": "NCIS",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/2exOHePjOTquUsbThPGhuEjYTyA.jpg",
+        "rating": "76.0",
+        "ratingUS": "",
+        "openLink": "",
+        "description": "\nFrom murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.\n"
+    },
+    {
+        "title": "Criminal Minds",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/7TCwgX7oQKxcWYEhSPRmaHe6ULN.jpg",
+        "rating": "83.26",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=NTYxiJBbEZk",
+        "description": "\nAn elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.\n"
+    },
+    {
+        "title": "The Mentalist",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+        "rating": "83.91999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=nn2Q69pSC_M",
+        "description": "\nPatrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.\n"
+    },
+    {
+        "title": "American Dad!",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg",
+        "rating": "69.59",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=apr31MFjg08",
+        "description": "\nThe series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"\n"
+    },
+    {
+        "title": "Castle",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+        "rating": "80.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=xjrObBtzGYg",
+        "description": "\nAfter a serial killer imitates the plots of his novels, successful mystery novelist Richard \"Rick\" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes.\n"
+    },
+    {
+        "title": "The Simpsons",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+        "rating": "80.00999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=_jgYEYERYFQ",
+        "description": "\nSet in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.\n"
+    },
+    {
+        "title": "Supernatural",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+        "rating": "83.03",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=yy96yJjkvjo",
+        "description": "\nWhen they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. \n"
+    },
+    {
+        "title": "Shameless",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
+        "rating": "82.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=-7QA-uMAiLw",
+        "description": "\nChicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.\n"
+    },
+    {
+        "title": "Game of Thrones",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "rating": "84.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+        "description": "\nSeven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.\n"
+    },
+    {
+        "title": "Midsomer Murders",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+        "rating": "76.55",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=ym8b4UJDqcw",
+        "description": "\nThe peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. \n"
+    },
+    {
+        "title": "Suits",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+        "rating": "82.09",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=cUnkjEIW2-o",
+        "description": "\nWhile running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory.\n"
+    },
+    {
+        "title": "Young Sheldon",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/MpdROQ5XxQqOMKhJlLUf7PTxIC.jpg",
+        "rating": "80.53",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=iGKnI3Lc7C4",
+        "description": "\nThe early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.\n"
+    },
+    {
+        "title": "Vikings",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+        "rating": "80.88",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=7rcozIVtujw",
+        "description": "\nThe adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.\n"
+    },
+    {
+        "title": "The Rookie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/jbMefmo6EjcvpOULP50nfMpGP70.jpg",
+        "rating": "82.82",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=_HgC1TN8FVk",
+        "description": "\nStarting over isn\u2019t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force\u2019s oldest rookie, he\u2019s met with skepticism from some higher-ups who see him as just a walking midlife crisis.\n"
+    },
+    {
+        "title": "Goosebumps",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/pMrMPlEJAGAKBUWJzeacIwjRU2C.jpg",
+        "rating": "80.69000000000001",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=sIiUwbBxZo8",
+        "description": "\nA group of five high schoolers embark on a shadowy and twisted journey to investigate the tragic passing three decades earlier of a teen named Harold Biddle \u2013 while also unearthing dark secrets from their parents' past.\n"
+    },
+    {
+        "title": "Bleach",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "rating": "84.1",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=0c4IoCA5fY0",
+        "description": "\nFor as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.\n"
+    },
+    {
+        "title": "The Daily Show",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/nhZhgLYBNYDFRkDwljtrrAVtjop.jpg",
+        "rating": "63.33",
+        "ratingUS": "",
+        "openLink": "",
+        "description": "\nTrevor Noah and The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.\n"
+    },
+    {
+        "title": "American Horror Story",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
+        "rating": "81.44",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=4qniWD7bFu0",
+        "description": "\nAn anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.\n"
+    },
+    {
+        "title": "Fear the Walking Dead",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/l7N9aS6VyYvjelKoCB2eZge0Qky.jpg",
+        "rating": "76.92",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=WDxew5SguVw",
+        "description": "\nWhat did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.\n"
+    },
+    {
+        "title": "9-1-1",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/89ZV0IBrNa1EFmivRN6jl0sti1n.jpg",
+        "rating": "82.23",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=_8MHJfUMqPA",
+        "description": "\nExplore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.\n"
+    },
+    {
+        "title": "Lupin",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+        "rating": "77.78",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=ga0iTWXCGa0",
+        "description": "\nInspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.\n"
+    },
+    {
+        "title": "CSI: Crime Scene Investigation",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/jBybUiienGpfLoDkbS5nvY4i40A.jpg",
+        "rating": "76.72",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=0bIAZz-xCGo",
+        "description": "\nA Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.\n"
+    },
+    {
+        "title": "Peaky Blinders",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+        "rating": "85.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=EM12mcTEI88",
+        "description": "\nA gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.\n"
+    },
+    {
+        "title": "Seinfeld",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+        "rating": "82.8",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=hQXKyIG_NS4",
+        "description": "\nA stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.\n"
+    },
+    {
+        "title": "Yellowstone",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+        "rating": "81.78",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=suobrMPBLlo",
+        "description": "\nFollow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America\u2019s first National Park.\n"
+    },
+    {
+        "title": "Smallville",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+        "rating": "82.32",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=70Y32si4yb8",
+        "description": "\nThe origins of the world\u2019s greatest hero\u2013from Krypton refugee Kal-el\u2019s arrival on Earth through his tumultuous teen years to Clark Kent\u2019s final steps toward embracing his destiny as the Man of Steel.\n"
+    },
+    {
+        "title": "Chicago P.D.",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/7gtp4lusk685hdmuEXMbYrmSQoY.jpg",
+        "rating": "84.54",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Wji_GTTjPLM",
+        "description": "\nA riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.\n"
+    },
+    {
+        "title": "Magnum P.I.",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
+        "rating": "76.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=qMmv9JFOEB0",
+        "description": "\nThomas Magnum, a decorated former Navy SEAL who, upon returning home from Afghanistan, repurposes his military skills to become a private investigator in Hawaii taking jobs no one else will with the help of fellow vets T.C. Calvin and Rick Wright, and the former MI:6 agent Higgins.\n"
+    },
+    {
+        "title": "The Boys",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/7Ns6tO3aYjppI5bFhyYZurOYGBT.jpg",
+        "rating": "84.73",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=tcrNsIaQkb4",
+        "description": "\nA group of vigilantes known informally as \u201cThe Boys\u201d set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.\n"
+    },
+    {
+        "title": "Two and a Half Men",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/A9QDK4OWpv41W27kCv0LXe30k9S.jpg",
+        "rating": "74.53999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=E7ap_eCWxYI",
+        "description": "\nA hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.\n"
+    },
+    {
+        "title": "Doctor Who",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/sz4zF5z9zyFh8Z6g5IQPNq91cI7.jpg",
+        "rating": "74.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=xDUvFdGu6JE",
+        "description": "\nThe Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living\u2014more of a hobby actually, and the Doctor's very, very good at it.\n"
+    },
+    {
+        "title": "Desperate Housewives",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/mmL7HMdGOEaA8tR58s1PrpFsSmY.jpg",
+        "rating": "79.29",
+        "ratingUS": "",
+        "openLink": "",
+        "description": "\nLooking down on her friends and family isn't a way of life for Mary Alice Young... it's a way of death. One day, in her perfect house, in the loveliest of suburbs, Mary Alice ended it all. Now she's taking us into the lives of her family, friends and neighbors, commenting from her elevated P.O.V.\n"
+    },
+    {
+        "title": "Arrow",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+        "rating": "67.96000000000001",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=hTv13EjlLNg",
+        "description": "\nSpoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.\n"
+    },
+    {
+        "title": "The Walking Dead",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg",
+        "rating": "81.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=BXqUmob-nfg",
+        "description": "\nSheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.\n"
+    },
+    {
+        "title": "The Continental: From the World of John Wick",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/2urdwqEL9FRkGMKAkhfvWTALG00.jpg",
+        "rating": "78.32",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Z3KmgnQbor8",
+        "description": "\nWinston Scott is roped into a world of assassins and must make things right after his brother's attack on the Continental hotel.\n"
+    },
+    {
+        "title": "House",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "rating": "85.96000000000001",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=MczMB8nU1sY",
+        "description": "\nDr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton\u2013Plainsboro Teaching Hospital in New Jersey.\n"
+    },
+    {
+        "title": "The Fall of the House of Usher",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg",
+        "rating": "75.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=yvuAWVzP6wI",
+        "description": "\nRuthless siblings Roderick and Madeline Usher have built Fortunato Pharmaceuticals into an empire of wealth, privilege and power. But past secrets come to light when the heirs to the Usher dynasty start dying at the hands of a mysterious woman from their youth.\n"
+    },
+    {
+        "title": "Friends",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+        "rating": "84.46",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=IEEbUzffzrk",
+        "description": "\nSix young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.\n"
+    },
+    {
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/z4rvmhoqQiGMnwuBHY1QcH3OqUo.jpg",
+        "rating": "85.7",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=k5VxfJpzy1Q",
+        "description": "\nA 34-year-old hikikomori is kicked out of his home by his family after the death of his parents. After his eviction, he saves a group of teenagers from being killed by a speeding truck, but loses his life in the process. When he comes to, he realizes he has been reborn as Rudeus Greyrat, in a world of swords and sorcery.\n"
+    },
+    {
+        "title": "S.W.A.T.",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/7Bttz4hEspKlpU0Me57dkHNR3nf.jpg",
+        "rating": "81.25",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Zopy34r5lTY",
+        "description": "\nA locally born and bred S.W.A.T. lieutenant is torn between loyalty to the streets and duty to his fellow officers when he's tasked to run a highly-trained unit that's the last stop for solving crimes in Los Angeles.\n"
+    },
+    {
+        "title": "FBI",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/cGLQRv3MLWGrHMhRGn1zsSa9n2i.jpg",
+        "rating": "79.74000000000001",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=O7oPFgb6VNE",
+        "description": "\nThe New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.\n"
+    },
+    {
+        "title": "Columbo",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/ypIU92ah9ytKWhDyJJCFoZitbOJ.jpg",
+        "rating": "80.58",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=8ZOHmz3bfAI",
+        "description": "\nColumbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.\n"
+    }
     ],
     "Upcoming": [
     {
