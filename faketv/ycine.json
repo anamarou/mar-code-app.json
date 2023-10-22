@@ -4,17 +4,17 @@
     "redirectURL" : "com.YOUCINE.app.reviews"
   },
   "AdsController": {
-    "BannerNetwork"           : "applovin",
-    "InterstitialNetwork"     : "applovin",
-    "NativeNetwork"           : "applovin",
-    "RewardNetwork"           : "admob",
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "NativeNetwork"           : "admob",
+    "RewardNetwork"           : "applovin",
 
-    "IntervalClick"           : 100,
+    "IntervalClick"           : 3,
 
-    "AdMob_ID"                : "pub-39402560xxxxxxxx",
-    "AdMob_Banner"            : "ca-app-pub-39402560xxxxxxxx/2247696110",
-    "AdMob_InterstitialAd"    : "ca-app-pub-39402560xxxxxxxx/2247696110",
-    "AdMob_Native"            : "ca-app-pub-39402560xxxxxxxx/2247696110",
+    "AdMob_ID"                : "pub-7795360601757719",
+    "AdMob_Banner"            : "ca-app-pub-7795360601757719/6794586633",
+    "AdMob_InterstitialAd"    : "ca-app-pub-7795360601757719/5481504962",
+    "AdMob_Native"            : "ca-app-pub-7795360601757719/4853398122",
 
     "Facebook_Banner"         : "6929612xxxxxx_857100538735368",
     "Facebook_InterstitialAd" : "6929612xxxxxx_857100538735368",
@@ -1997,23 +1997,327 @@
     }
 ],
     "Top Rated": [
-      {
-        "title": " The Darkest Minds (2018)",
-        "preview": "https://www.themoviedb.org/t/p/w1280/8Mk1Z4RkxdsVAD2L2qcDho00zPo.jpg",
-        "rating": "3.6",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/tN8o_E_f9FQ",
-        "description": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government."
-      },
-      {
-        "title": "The Godfather (1972) ",
-        "preview": "https://www.themoviedb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-        "rating": "4.4",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/VC1_tdnZq1A",
-        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
-      }
-    ],
+    {
+        "title": "The Godfather",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "rating": "87.09",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Ew9ngL1GZvs",
+        "description": "\nSpanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.\n"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg",
+        "rating": "87.03",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=PLl99DlL6b4",
+        "description": "\nFramed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.\n"
+    },
+    {
+        "title": "The Godfather Part II",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+        "rating": "85.91",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=rcU6DUUUd7k",
+        "description": "\nIn the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.\n"
+    },
+    {
+        "title": "Schindler's List",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "rating": "85.73",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=mxphAlJID9U",
+        "description": "\nThe true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.\n"
+    },
+    {
+        "title": "Dilwale Dulhania Le Jayenge",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/ktejodbcdCPXbMMdnpI9BUxW6O8.jpg",
+        "rating": "85.51",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=oIZ4U21DRlM",
+        "description": "\nRaj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fianc\u00e9. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.\n"
+    },
+    {
+        "title": "12 Angry Men",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+        "rating": "85.39999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=TEN-2uTi2c0",
+        "description": "\nThe defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.\n"
+    },
+    {
+        "title": "Spirited Away",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "rating": "85.39999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
+        "description": "\nA young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.\n"
+    },
+    {
+        "title": "David Attenborough: A Life on Our Planet",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg",
+        "rating": "85.27",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=64R2MYUt394",
+        "description": "\nThe story of life on our planet by the man who has seen more of the natural world than any other. In more than 90 years, Attenborough has visited every continent on the globe, exploring the wild places of our planet and documenting the living world in all its variety and wonder. Addressing the biggest challenges facing life on our planet, the film offers a powerful message of hope for future generations.\n"
+    },
+    {
+        "title": "Parasite",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "rating": "85.15",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=tBfgTZsBeFM",
+        "description": "\nAll unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.\n"
+    },
+    {
+        "title": "Your Name.",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/q719jXXEzOoYaps6babgKnONONX.jpg",
+        "rating": "85.13",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=_oWzYOwXn-o",
+        "description": "\nHigh schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki\u2019s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.\n"
+    },
+    {
+        "title": "The Dark Knight",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "rating": "85.12",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=kmJLuwP3MbY",
+        "description": "\nBatman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.\n"
+    },
+    {
+        "title": "The Green Mile",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "rating": "85.07999999999998",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Bg7epsq0OIQ",
+        "description": "\nA supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.\n"
+    },
+    {
+        "title": "Pulp Fiction",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+        "rating": "84.88",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=tGpTpVyI_OQ",
+        "description": "\nA burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.\n"
+    },
+    {
+        "title": "Forrest Gump",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+        "rating": "84.77000000000001",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=76WeEuR0qk4",
+        "description": "\nA man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.\n"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "rating": "85.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=zckJCxYxn1g",
+        "description": "\nAragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.\n"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+        "rating": "84.72",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=IFNUGzCOQoI",
+        "description": "\nWhile the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.\n"
+    },
+    {
+        "title": "GoodFellas",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+        "rating": "84.65",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=PTBRNXGQR9Q",
+        "description": "\nThe true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.\n"
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+        "rating": "84.55",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=4vPeTSRd580",
+        "description": "\nIn the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.\n"
+    },
+    {
+        "title": "Life Is Beautiful",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+        "rating": "84.55",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=pAYEQP8gx3w",
+        "description": "\nA touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.\n"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg",
+        "rating": "84.5",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=JMyVSD6OvO8",
+        "description": "\nA filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.\n"
+    },
+    {
+        "title": "Seven Samurai",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg",
+        "rating": "84.5",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=6jZF-Ujv2z4",
+        "description": "\nA samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.\n"
+    },
+    {
+        "title": "Gabriel's Inferno",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+        "rating": "84.46",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=kgWFjmiqHmQ",
+        "description": "\nAn intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel's Inferno is a captivating and wildly passionate tale of one man's escape from his own personal hell as he tries to earn the impossible--forgiveness and love.\n"
+    },
+    {
+        "title": "Fight Club",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+        "rating": "84.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=dfeUzm6KF4g",
+        "description": "\nA ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.\n"
+    },
+    {
+        "title": "Bring the Soul: The Movie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/7x5CguA0MxHqbSjhi14UEuK7c95.jpg",
+        "rating": "84.36999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=AwrClxIhsYc",
+        "description": "\nA glimpse into K-pop group BTS\u2019 world away from the stage, featuring intimate group discussions alongside spectacular concert performances from their world tour.\n"
+    },
+    {
+        "title": "Psycho",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+        "rating": "84.36",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=D90QhegiVvo",
+        "description": "\nWhen larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.\n"
+    },
+    {
+        "title": "City of God",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+        "rating": "84.32000000000001",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=_mDvXaRJcTM",
+        "description": "\nIn the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.\n"
+    },
+    {
+        "title": "Taylor Swift: Reputation Stadium Tour",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg",
+        "rating": "84.30999999999999",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=HIb_TlK2HAI",
+        "description": "\nTaylor Swift takes the stage in Dallas for the Reputation Stadium Tour and celebrates a monumental night of music, memories and visual magic.\n"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "rating": "84.25",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=yFrxzaBLDQM",
+        "description": "\nAfter reuniting with Gwen Stacy, Brooklyn\u2019s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse\u2019s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.\n"
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+        "rating": "84.27",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=_gdEuuxW-zk",
+        "description": "\nA former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.\n"
+    },
+    {
+        "title": "Gabriel's Inferno: Part II",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg",
+        "rating": "84.25",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=5g02v1oz5Y0",
+        "description": "\nProfessor Gabriel Emerson finally learns the truth about Julia Mitchell's identity, but his realization comes a moment too late. Julia is done waiting for the well-respected Dante specialist to remember her and wants nothing more to do with him. Can Gabriel win back her heart before she finds love in another's arms?\n"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+        "rating": "84.21",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=3NSVJlBeGBA",
+        "description": "\nA petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients\u2014and an enemy to the cruel, domineering nurse who runs the ward.\n"
+    },
+    {
+        "title": "Dou kyu sei \u2013 Classmates",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/cIfRCA5wEvj9tApca4UDUagQEiM.jpg",
+        "rating": "84.2",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=wFQTncSyukA",
+        "description": "\nRihito Sajo, an honor student with a perfect score on the entrance exam and Hikaru Kusakabe, in a band and popular among girls, would have never crossed paths. Until one day they started talking at the practice for their school\u2019s upcoming chorus festival. After school, the two meet regularly, as Hikaru helps Rihito to improve his singing skills. While they listen to each other\u2019s voice and harmonize, their hearts start to beat together.\n"
+    },
+    {
+        "title": "Interstellar",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+        "rating": "84.19",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=0vxOhd4qlnA",
+        "description": "\nThe adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.\n"
+    },
+    {
+        "title": "The Legend of Hei",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/4jfbKKLpqts3i2h2obkrONcjTg1.jpg",
+        "rating": "84.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=Ps0O9l2CvOM",
+        "description": "\nWhen cat spirit Luo Xiaohei's home is deforested by humans, he must find a new one. He runs into a group of other spirit creatures who take him under their wing with dreams of reconquering the land they say is rightfully theirs. However, they run into a human known as Wuxian who separates Luo Xiaohei from the other spirits and the two go on a journey, with the cat spirit learning to control his abilities as well as forming his own thoughts on whether or not he should ally with the spirits or the humans.\n"
+    },
+    {
+        "title": "Gabriel's Inferno: Part III",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg",
+        "rating": "84.06",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=mjPUGem9SaY",
+        "description": "\nThe final part of the film adaption of the erotic romance novel Gabriel's Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.\n"
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/6pZgH10jhpToPcf0uvyTCPFhWpI.jpg",
+        "rating": "84.06",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=x4vLJlWmIN8",
+        "description": "\nSophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.\n"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "rating": "84.05",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=tg52up16eq0",
+        "description": "\nStruggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.\n"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "rating": "84.0",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=_nZdmwHrcnw",
+        "description": "\nYoung hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.\n"
+    },
+    {
+        "title": "Harakiri",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+        "rating": "84.03",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=gfABwM-Ppng",
+        "description": "\nDown-on-his-luck veteran Tsugumo Hanshir\u014d enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku\u2014and a worthy second to deliver the coup de gr\u00e2ce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin\u2019s resolve and integrity, suspecting Hanshir\u014d of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code.\n"
+    },
+    {
+        "title": "A Silent Voice: The Movie",
+        "preview": "https://www.themoviedb.org/t/p/w220_and_h330_face/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
+        "rating": "84.02",
+        "ratingUS": "",
+        "openLink": "https://www.youtube.com/watch?v=e8tMQVwqj54",
+        "description": "\nShouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?\n"
+    }   
+ ],
     "Popular": [
     {
         "title": "Blue Beetle",
