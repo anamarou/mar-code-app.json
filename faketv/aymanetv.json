@@ -4,8 +4,8 @@
     "redirectURL" : "com.aymane.tv.live"
   },
   "AdsController": {
-    "BannerNetwork"           : "ironsource",
-    "InterstitialNetwork"     : "ironsource",
+    "BannerNetwork"           : "applovin",
+    "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     "RewardNetwork"           : "applovin",
 
