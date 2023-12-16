@@ -6,11 +6,11 @@
   "PANEL_URL_REDIRECTION": "https://marouaneai.com/ytv/tvplayer",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "uk,us,qa,in",
+  "BLACK_LIST" : "uk,qa,in",
 
   "status": "ok",
   "app": {
-    "status": 0,
+    "status": 1,
     "redirect_url": "https://play.google.com/store/apps/details?id=app.yacinetv.mrplayer"
   },
   "settings": {
