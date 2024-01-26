@@ -30,7 +30,7 @@
   "ads": {
     "id": 1,
     "ad_status": "on",
-    "ad_type": "ironsource",
+    "ad_type": "applovin_max",
     "backup_ads": "applovin",
     
     "admob_publisher_id": "pub-6821840898907717",
