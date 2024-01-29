@@ -4,17 +4,17 @@
     "redirectURL" : "com.YACINE.app.YTV.tv"
   },
   "AdsController": {
-    "BannerNetwork"           : "applovin",
+    "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     "RewardNetwork"           : "admob",
 
     "IntervalClick"           : 1,
 
-    "AdMob_ID"                : "pub-39402560xxxxxxxx",
-    "AdMob_Banner"            : "ca-app-pub-39402560xxxxxxxx/2247696110",
-    "AdMob_InterstitialAd"    : "ca-app-pub-39402560xxxxxxxx/2247696110",
-    "AdMob_Native"            : "ca-app-pub-39402560xxxxxxxx/2247696110",
+    "AdMob_ID"                : "pub-2616067820237387",
+    "AdMob_Banner"            : "ca-app-pub-2616067820237387/7347629055",
+    "AdMob_InterstitialAd"    : "ca-app-pub-2616067820237387/6034547382",
+    "AdMob_Native"            : "ca-app-pub-2616067820237387/9782220708",
 
     "Facebook_Banner"         : "6929612xxxxxx_857100538735368",
     "Facebook_InterstitialAd" : "6929612xxxxxx_857100538735368",
