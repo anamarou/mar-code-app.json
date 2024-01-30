@@ -5,11 +5,11 @@
   },
   "AdsController": {
     "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
+    "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "admob",
     "RewardNetwork"           : "applovin",
 
-    "IntervalClick"           : 2,
+    "IntervalClick"           : 1,
 
     "AdMob_ID"                : "pub-2616067820237387",
     "AdMob_Banner"            : "ca-app-pub-2616067820237387/7347629055",
