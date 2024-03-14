@@ -7,11 +7,11 @@
 
     "AdsController": {
       
-    "BannerNetwork"              : "xxadmob",
-    "InterstitialNetwork"        : "xxfacebook",
+    "BannerNetwork"              : "admob",
+    "InterstitialNetwork"        : "admob",
     
-    "InterstitialPlayerOpen"     : "xxapplovin",
-    "InterstitialPlayerBack"     : "xxironsource",
+    "InterstitialPlayerOpen"     : "admob",
+    "InterstitialPlayerBack"     : "admob",
     
     
     "IntervalClick"              : 1,
