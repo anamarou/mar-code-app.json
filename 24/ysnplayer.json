@@ -1,0 +1,31 @@
+{
+    
+  "AppRedirect": {
+    "status"        : false,
+    "redirectURL"   : "https://play.google.com/store/apps/details?id=com.ysn.player"
+  },
+  
+  "AdsController": {
+      
+    "user-agent"              : "Mr@agent",
+      
+    "BannerNetwork"           : "facebookadmobapplovin",
+    "InterstitialNetwork"     : "admob",
+    "InterstitialExitPlayer"  : "ironsource",
+    
+    "IntervalClick"           : 1,
+    
+    "AdMob_Banner"            : "ca-app-pub-xx/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-xx/1033173712",
+   
+    "Facebook_Banner"         : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
+    
+    "Applovin_Banner"         : "xx",
+    "Applovin_InterstitialAd" : "xx",
+    
+    "IronSourceKey"           : "xx"
+    
+    
+  }
+}
