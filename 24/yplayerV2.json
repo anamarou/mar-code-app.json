@@ -1,0 +1,31 @@
+{
+    
+  "AppRedirect": {
+    "status"        : false,
+    "redirectURL"   : "https://play.google.com/store/apps/details?id=com.f.player"
+  },
+  
+  "AdsController": {
+      
+    "user-agent"              : "Mr@agent",
+      
+    "BannerNetwork"           : "facebook/admob/applovin",
+    "InterstitialNetwork"     : "admob/facebook",
+    "InterstitialExitPlayer"  : "facebook/admob",
+    
+    "IntervalClick"           : 1,
+    
+    "AdMob_Banner"            : "ca-app-pub-xx/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-xx/1033173712",
+   
+    "Facebook_Banner"         : "xx",
+    "Facebook_InterstitialAd" : "xx",
+    
+    "Applovin_Banner"         : "xx",
+    "Applovin_InterstitialAd" : "xx",
+    
+    "IronSourceKey"           : "xx"
+    
+    
+  }
+}
