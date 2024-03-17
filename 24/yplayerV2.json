@@ -9,7 +9,7 @@
       
     "user-agent"              : "yassin7000",
       
-    "BannerNetwork"           : "facebook/admob/applovin",
+    "BannerNetwork"           : "facebook-admob/applovin",
     "InterstitialNetwork"     : "admob/facebook",
     "InterstitialExitPlayer"  : "facebook/admob",
     
