@@ -9,14 +9,14 @@
       
     "user-agent"              : "yassin7000",
       
-    "BannerNetwork"           : "facebook-admob/applovin",
-    "InterstitialNetwork"     : "admob/facebook",
-    "InterstitialExitPlayer"  : "facebook/admob",
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "InterstitialExitPlayer"  : "admob",
     
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-xx/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-xx/1033173712",
+    "AdMob_Banner"            : "ca-app-pub-2315274830734354/3401851439",
+    "AdMob_InterstitialAd"    : "ca-app-pub-2315274830734354/6512866988",
    
     "Facebook_Banner"         : "xx",
     "Facebook_InterstitialAd" : "xx",
