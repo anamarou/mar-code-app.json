@@ -1,0 +1,32 @@
+{
+  "AppRedirect": {
+    "status"        : false,
+    "redirect_link" : "https://play.google.com/store/apps/details?id=com.musicsi.musistream.admob.facebook.applovin"
+  },
+  
+  "AdsController": {
+      
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "NativeNetwork"           : "admob",
+    
+    "IntervalClick"           : 2,
+    
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    
+    "Facebook_Banner"         : "xx",
+    "Facebook_InterstitialAd" : "xx",
+    "Facebook_NativeAd"       : "xx",
+
+    "Applovin_Banner"         : "xx",
+    "Applovin_InterstitialAd" : "xx",
+    "Applovin_Native"         : "xx",
+    
+   
+    "blockedCountry"         : "ma,us,ie,gb,in"
+  }
+      
+}
+
