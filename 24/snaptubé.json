@@ -6,19 +6,19 @@
   
   "AdsController": {
       
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
-    "NativeNetwork"           : "admob",
+    "BannerNetwork"           : "facebook",
+    "InterstitialNetwork"     : "facebook",
+    "NativeNetwork"           : "facebook",
     
     "IntervalClick"           : 2,
     
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Banner"            : "xx",
+    "AdMob_InterstitialAd"    : "xx",
     "AdMob_Native"            : "xx",
     
-    "Facebook_Banner"         : "xx",
-    "Facebook_InterstitialAd" : "xx",
-    "Facebook_NativeAd"       : "xx",
+    "Facebook_Banner"         : "896462408503635_973723260777549",
+    "Facebook_InterstitialAd" : "896462408503635_973723377444204",
+    "Facebook_NativeAd"       : "896462408503635_973723527444189",
 
     "Applovin_Banner"         : "xx",
     "Applovin_InterstitialAd" : "xx",
