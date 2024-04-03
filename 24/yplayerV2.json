@@ -1,22 +1,22 @@
 {
     
   "AppRedirect": {
-    "status"        : false,
+    "status"        : true,
     "redirectURL"   : "https://play.google.com/store/apps/details?id=com.f.player"
   },
   
   "AdsController": {
       
-    "user-agent"              : "yassin7000",
+    "user-agent"              : "xx",
       
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
-    "InterstitialExitPlayer"  : "admob",
+    "BannerNetwork"           : "xx",
+    "InterstitialNetwork"     : "xx",
+    "InterstitialExitPlayer"  : "xx",
     
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-2315274830734354/3401851439",
-    "AdMob_InterstitialAd"    : "ca-app-pub-2315274830734354/6512866988",
+    "AdMob_Banner"            : "ca-app-pub-xx/3401851439",
+    "AdMob_InterstitialAd"    : "ca-app-pub-xx/6512866988",
    
     "Facebook_Banner"         : "xx",
     "Facebook_InterstitialAd" : "xx",
