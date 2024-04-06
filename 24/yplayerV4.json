@@ -11,15 +11,15 @@
       
     "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
-    "InterstitialExitPlayer"  : "admob",
+    "InterstitialExitPlayer"  : "facebook",
     
     "IntervalClick"           : 1,
     
     "AdMob_Banner"            : "ca-app-pub-3328664880109699/3545311929",
     "AdMob_InterstitialAd"    : "ca-app-pub-3328664880109699/7544266685",
    
-    "Facebook_Banner"         : "xx",
-    "Facebook_InterstitialAd" : "xx",
+    "Facebook_Banner"         : "3503962663247562_3503963373247491",
+    "Facebook_InterstitialAd" : "3503962663247562_3503963313247497",
     
     "Applovin_Banner"         : "xx",
     "Applovin_InterstitialAd" : "xx",
