@@ -1,0 +1,31 @@
+{
+    
+  "AppRedirect": {
+    "status"        : false,
+    "redirectURL"   : "https://play.google.com/store/apps/details?id=com.egy.player"
+  },
+  
+  "AdsController": {
+      
+    "user-agent"              : "",
+      
+    "BannerNetwork"           : "yassin7000xxadmob",
+    "InterstitialNetwork"     : "xxadmob",
+    "InterstitialExitPlayer"  : "xxfacebook",
+    
+    "IntervalClick"           : 1,
+    
+    "AdMob_Banner"            : "ca-app-pub-xx/3545311929",
+    "AdMob_InterstitialAd"    : "ca-app-pub-xx/7544266685",
+   
+    "Facebook_Banner"         : "xx",
+    "Facebook_InterstitialAd" : "xx",
+    
+    "Applovin_Banner"         : "xx",
+    "Applovin_InterstitialAd" : "xx",
+    
+    "IronSourceKey"           : "xx"
+    
+    
+  }
+}
