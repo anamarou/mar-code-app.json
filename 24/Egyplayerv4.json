@@ -7,16 +7,16 @@
   
   "AdsController": {
       
-    "user-agent"              : "",
+    "user-agent"              : "yassin7000",
       
-    "BannerNetwork"           : "yassin7000xadmob",
-    "InterstitialNetwork"     : "xxadmob",
-    "InterstitialExitPlayer"  : "xxfacebook",
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "InterstitialExitPlayer"  : "admob",
     
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-xx/3545311929",
-    "AdMob_InterstitialAd"    : "ca-app-pub-xx/7544266685",
+    "AdMob_Banner"            : "ca-app-pub-3328664880109699/1468411527",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3328664880109699/3247546992",
    
     "Facebook_Banner"         : "xx",
     "Facebook_InterstitialAd" : "xx",
