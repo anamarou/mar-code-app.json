@@ -1,12 +1,12 @@
 {
   "countriesInfo" : "https://www.iban.com/country-codes",
     
-  "PANEL_URL"                : "https://marouaneai.com/thestream24/Panel",
+  "PANEL_URL"                : "https://marouaneai.com/thestream24/yassirtv",
   "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
-  "REDIRECTION_COUNTRIES"    : "us,gb,es,in,qa,uk,id",
+  "REDIRECTION_COUNTRIES"    : "us,gb,in,qa,id",
   
   "PANEL_URL_TARGET"         : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
@@ -18,7 +18,7 @@
   "updateApp": {
       
     "status"      : "false",
-    "redirect_url": "https://play.google.com/store/apps/details?id=app.youness.tvapp"
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.app.YOUNESSTV"
     
   },
 
@@ -114,8 +114,8 @@
     
     "onesignal_app_id"  : "",
     
-    "external_player"   : "false",
-    "external_player_id": "com.f.player",
+    "external_player"   : "true",
+    "external_player_id": "com.egy.player",
     
     
     "onesignal_rest_api_key": "0",
