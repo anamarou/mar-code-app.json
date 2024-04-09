@@ -2,7 +2,7 @@
     
   "AppRedirect": {
     "status"        : false,
-    "redirectURL"   : "https://play.google.com/store/apps/details?id=com.egy.player"
+    "redirectURL"   : "https://play.google.com/store/apps/details?id=com.egy.player.facebook.admob"
   },
   
   "AdsController": {
@@ -11,15 +11,15 @@
       
     "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
-    "InterstitialExitPlayer"  : "admob",
+    "InterstitialExitPlayer"  : "facebook",
     
     "IntervalClick"           : 1,
     
     "AdMob_Banner"            : "ca-app-pub-3328664880109699/1468411527",
     "AdMob_InterstitialAd"    : "ca-app-pub-3328664880109699/3247546992",
    
-    "Facebook_Banner"         : "xx",
-    "Facebook_InterstitialAd" : "xx",
+    "Facebook_Banner"         : "1173981206927128_1173983043593611",
+    "Facebook_InterstitialAd" : "1173981206927128_1173983106926938",
     
     "Applovin_Banner"         : "xx",
     "Applovin_InterstitialAd" : "xx",
