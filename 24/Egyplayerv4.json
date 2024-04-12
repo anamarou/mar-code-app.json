@@ -9,9 +9,9 @@
       
     "user-agent"              : "yassin7000",
       
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
-    "InterstitialExitPlayer"  : "facebook",
+    "BannerNetwork"           : "facebook",
+    "InterstitialNetwork"     : "facebook",
+    "InterstitialExitPlayer"  : "admob",
     
     "IntervalClick"           : 1,
     
