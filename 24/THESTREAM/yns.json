@@ -100,9 +100,9 @@
   
   "promote":{
       "showDescription" : "true",
-      "status"  :"false",
-      "preview" :"https://zonekapp.com/AndroidStudio/MarouanTV/promote.png",
-      "url"     : "https://github.com/saidmotya"
+      "status"  :"true",
+      "preview" :"https://raw.githubusercontent.com/yqvclhjfife/MRTV/main/yacineads2.png",
+      "url"     : "https://play.google.com/store/apps/details?id=app.yacinetv.yassine"
      
   },
   
