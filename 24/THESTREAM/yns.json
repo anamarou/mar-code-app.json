@@ -28,12 +28,12 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status"      : "on",
+    "ad_status"      : "off",
     
-    "ad_type"        : "admob",
-    "ad_type_splash" : "fan",
+    "ad_type"        : "xxadmob",
+    "ad_type_splash" : "xxfan",
     
-    "backup_ads"     : "applovin",
+    "backup_ads"     : "xxapplovin",
     
     "admob_publisher_id"             : "pub-3328664880109699",
     "admob_app_id"                   : "0",
