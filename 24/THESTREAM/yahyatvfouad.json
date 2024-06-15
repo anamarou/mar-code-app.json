@@ -28,20 +28,20 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status"      : "off",
+    "ad_status"      : "on",
     
-    "ad_type"        : "XXXadmob",
+    "ad_type"        : "admob",
     "ad_type_splash" : "XXXXXfan",
     
     "backup_ads"     : "XXXXapplovin",
     
-    "admob_publisher_id"             : "pub-xx",
+    "admob_publisher_id"             : "pub-3328664880109699",
     "admob_app_id"                   : "0",
-    "admob_banner_unit_id"           : "ca-app-pub-xx/3821343166",
-    "admob_interstitial_unit_id"     : "ca-app-pub-xx/1969652555",
+    "admob_banner_unit_id"           : "ca-app-pub-3328664880109699/6366451730",
+    "admob_interstitial_unit_id"     : "ca-app-pub-3328664880109699/5352752967",
     "admob_interstitial_splash"      : "ca-app-pub-xx/xx",
-    "admob_native_unit_id"           : "ca-app-pub-xx/8663687870",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-xx/1195179822",
+    "admob_native_unit_id"           : "ca-app-pub-3328664880109699/2309509421",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-3328664880109699/1591803057",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
